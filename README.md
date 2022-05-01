@@ -1,3 +1,12 @@
-Similarity learning online shop use-case
-
-For demonstration look [here](https://github.com/elliotalderson999/where2buyit_final/blob/main/where2buyit-demo.pdf)
+![0001](https://user-images.githubusercontent.com/57955563/166154311-8247d796-4fc8-4d97-a507-4b083f9d4f17.jpg)
+![0002](https://user-images.githubusercontent.com/57955563/166154315-b9bc65c6-4d1c-4d60-bef0-606326b88838.jpg)
+![0003](https://user-images.githubusercontent.com/57955563/166154328-0496d507-02c3-46b6-98b1-9bc70aa12739.jpg)
+![0004](https://user-images.githubusercontent.com/57955563/166154331-25da686f-5b8a-4350-9dbb-6f0612c2d152.jpg)
+![0005](https://user-images.githubusercontent.com/57955563/166154386-79a7c938-b816-4c75-92b4-4ed4907d26b8.jpg)
+![0006](https://user-images.githubusercontent.com/57955563/166154390-bf537e77-ac9d-4b54-aaba-029d0e2318c8.jpg)
+![0007](https://user-images.githubusercontent.com/57955563/166154392-b9b78acb-51c8-4aa5-9350-29bdb07a1dfc.jpg)
+![0008](https://user-images.githubusercontent.com/57955563/166154397-22a5c5f0-feac-419b-8ea6-2625d72ca1e9.jpg)
+![0009](https://user-images.githubusercontent.com/57955563/166154399-1bc2b1bd-bdc4-4e36-9d7a-4c4596d1f3a1.jpg)
+![0010](https://user-images.githubusercontent.com/57955563/166154402-f61f8869-8ee7-4832-a4d2-983e65266808.jpg)
+![0011](https://user-images.githubusercontent.com/57955563/166154408-b36e6984-2871-40f0-9f95-3f535cd2744f.jpg)
+![0012](https://user-images.githubusercontent.com/57955563/166154411-77e806f1-79e8-42b3-ab74-7c67a6b6532e.jpg)
